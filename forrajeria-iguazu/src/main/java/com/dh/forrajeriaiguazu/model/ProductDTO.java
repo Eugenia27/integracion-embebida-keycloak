@@ -1,4 +1,4 @@
-package com.dh.forrajeriaiguazu.Model;
+package com.dh.forrajeriaiguazu.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.AllArgsConstructor;

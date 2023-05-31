@@ -1,11 +1,10 @@
 package com.dh.forrajeriaiguazu.service;
 
 
-import com.dh.forrajeriaiguazu.Model.Product;
-import com.dh.forrajeriaiguazu.Model.ProductDTO;
+import com.dh.forrajeriaiguazu.model.Product;
+import com.dh.forrajeriaiguazu.model.ProductDTO;
 import com.dh.forrajeriaiguazu.repository.IProductRepository;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.apache.catalina.mapper.Mapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

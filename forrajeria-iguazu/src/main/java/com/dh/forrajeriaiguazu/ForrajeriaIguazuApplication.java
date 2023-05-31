@@ -1,6 +1,6 @@
 package com.dh.forrajeriaiguazu;
 
-import com.dh.forrajeriaiguazu.Model.Product;
+import com.dh.forrajeriaiguazu.model.Product;
 import com.dh.forrajeriaiguazu.repository.IProductRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

@@ -1,8 +1,8 @@
 package com.dh.forrajeriaiguazu.controller;
 
 
-import com.dh.forrajeriaiguazu.Model.Product;
-import com.dh.forrajeriaiguazu.Model.ProductDTO;
+import com.dh.forrajeriaiguazu.model.Product;
+import com.dh.forrajeriaiguazu.model.ProductDTO;
 import com.dh.forrajeriaiguazu.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
